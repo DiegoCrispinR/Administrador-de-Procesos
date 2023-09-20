@@ -1,0 +1,14 @@
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\Administrador de Procesos.exe.config
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\Administrador de Procesos.exe
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\Administrador de Procesos.pdb
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\MetroFramework.Design.dll
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\MetroFramework.dll
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.csproj.AssemblyReference.cache
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador_de_Procesos.Form1.resources
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador_de_Procesos.Properties.Resources.resources
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.csproj.GenerateResource.cache
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.csproj.CoreCompileInputs.cache
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.csproj.CopyComplete
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.exe
+C:\Users\diegu\Desktop\Administrador de Procesos\Administrador de Procesos\Administrador de Procesos\obj\Debug\Administrador de Procesos.pdb
